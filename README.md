@@ -1,6 +1,6 @@
 # Tasty Food
 
-Tasty Food - Challenge from Waveast - [Link](https://azhariemuhammad.notion.site/2-Tasty-Food-9de1f2d8427d4bbdb9a628bb41a7d4e5) Discrod Group
+Tasty Food - Challenge from [Waveast](https://azhariemuhammad.notion.site/2-Tasty-Food-9de1f2d8427d4bbdb9a628bb41a7d4e5)
 
 ## Table of contents
 
@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot 1]()
+![Screenshot 1](https://github.com/hutamatr/tasty-food-grid/blob/main/src/assets/mobile.png)
 
-![Screenshot 2]()
+![Screenshot 2](https://github.com/hutamatr/tasty-food-grid/blob/main/src/assets/dekstop.png)
 
 ### Links
 
-- Live Site URL: [Demo]()
+- Live Site URL: [Demo](tasty-food-grid.netlify.app)
 
 ## My process
 
